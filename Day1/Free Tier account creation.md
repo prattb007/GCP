@@ -1,9 +1,5 @@
 # Day-01: Introduction to Cloud and GCP
 
----
-
-## What You Will Learn Today
-
 - What is Cloud Computing?
 - Difference between Cloud and Traditional IT
 - Why choose Google Cloud (GCP) over AWS or Azure?
