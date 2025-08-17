@@ -40,6 +40,37 @@ In simple words:
 - Cost-effective and beginner-friendly
 - Used by gaints like META
 
+- Go to the Free Tier page and click Get started for free. Sign in with your Google account. 
+  Google Cloud
+
+- Create a Cloud Billing account / payments profile
+  You’ll be guided to set up a Google payments profile (individual or business) with your name, address, and country (India). 
+  Google Help
+  Google Cloud
+
+- Add a payment method (identity verification)
+  Add your card or bank account. Google may place a $0.00 authorization (not a charge) to verify. If your card requires 2-factor at the     bank page to complete every online payment, it might not be accepted. 
+  Google Cloud
+  +1
+
+- Accept the Free Trial terms
+  The Free Trial starts when you create the billing account. It ends when you use all $300 or after 3 months (90 days)—whichever comes      first. Unused credit expires at 3 months from the start date. 
+  Google Cloud
+
+- Finish signup
+  You now have a Free Trial billing account. Google says there are no automatic charges during the trial; you must explicitly upgrade to   a paid account to be billed. 
+  Google Cloud
+
+- Create your first project in the Google Cloud console and ensure it’s linked to your Free Trial billing account (Console → Billing →     “Go to linked billing account”). 
+  Google Cloud
+
+- Enable the services you need (e.g., Compute Engine, Cloud Storage, BigQuery). Many products also have “Always Free” monthly limits you     can keep using even after the trial—handy for small VMs, storage, etc. 
+  Google Cloud
+
+- Set a budget and alerts (strongly recommended)
+  Console → Billing → Budgets & alerts → Create budget → add email thresholds so you’re notified as you spend trial credit. 
+  Google Cloud
+
 ---
 
 ## Task: Create Your Free GCP Account
