@@ -40,6 +40,17 @@ In simple words:
 - Cost-effective and beginner-friendly
 - Used by gaints like META
 
+
+---
+
+## Task: Create Your Free GCP Account
+
+1. Go to: https://cloud.google.com/free
+2. Sign in with your Gmail
+3. Provide PAN and card details or UPI
+
+4. Step to create Free Tier account 
+
 - Go to the Free Tier page and click Get started for free. Sign in with your Google account. 
   Google Cloud
 
@@ -71,13 +82,6 @@ In simple words:
   Console → Billing → Budgets & alerts → Create budget → add email thresholds so you’re notified as you spend trial credit. 
   Google Cloud
 
----
-
-## Task: Create Your Free GCP Account
-
-1. Go to: https://cloud.google.com/free
-2. Sign in with your Gmail
-3. Provide PAN and card details or UPI
 
 ✅ No charges unless you upgrade manually.
 
